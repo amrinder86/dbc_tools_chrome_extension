@@ -11,7 +11,7 @@
   },
 
   "chrome_url_overrides" : {
-    "pageToOverride": "extension.html"
+    "newtab": "extension.html"
   },
   "content_security_policy": "script-src 'self' https://www.google.com; object-src 'self'",
   "icons": {
